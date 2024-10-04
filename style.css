@@ -1,0 +1,109 @@
+*
+{
+ background-color: black;
+
+}
+
+
+.introduction
+{
+  text-align: center;
+  text-decoration-color: antiquewhite;
+  font-weight: 400;
+  color:  whitesmoke;
+}
+
+.some_details
+{  
+    font-size: 20px;
+    text-decoration-color: antiquewhite;
+    font-weight: 400;
+    color:  whitesmoke;
+    justify-content: left;
+    
+}
+
+.projects .subheading2
+{
+    padding: 10px;
+    margin: 10px;
+    border: 10px;
+    font-style: oblique;
+    font-size: larger;
+    color: antiquewhite;
+    text-align: center;
+}
+
+
+
+.technologies_known .subheading
+{
+    font-style: italic;
+  font-size: large;
+  font-weight: 400;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.curent_internship_experience
+{
+    text-align: center;
+    font-style: italic;
+
+}
+
+.computer_vision 
+{
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    text-align: center;
+    
+}
+
+.computer_vision .vision_projects 
+{
+    text-align: left;
+
+}
+
+.computer_vision .vision_projects:hover
+{
+   scale: 1.01;
+   transition-delay: 1000;
+   transition-property: all;
+   -o-transition-timing-function: ease-in;
+   -ms-transition-timing-function: ease-in;
+
+   transition-duration: 2000;
+}
+
+.machine_learning
+{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+.machine_learning .heading4
+{
+    font-style: italic ;
+    text-align: center;
+    font-weight: 400;
+
+}
+
+.machine_learning .mlandds_projects:hover
+{
+
+    scale: 1.01;
+    font-size: 20px;
+   transition-delay: 1000;
+   transition-property: all;
+   -o-transition-timing-function: ease-in;
+   -ms-transition-timing-function: ease-in;
+
+   transition-duration: 2000;
+
+}
